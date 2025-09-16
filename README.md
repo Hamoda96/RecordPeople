@@ -1,6 +1,6 @@
-# peopleRecord
+# RecordPeople
 
-peopleRecord is an Android application designed to manage personal information. It features two main screens implemented both in Jetpack Compose and XML layouts.
+RecordPeople is an Android application designed to manage personal information. It features two main screens implemented both in Jetpack Compose and XML layouts.
 
 ## Features
 
